@@ -1,0 +1,24 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+}
